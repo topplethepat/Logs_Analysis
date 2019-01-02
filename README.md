@@ -1,5 +1,5 @@
-Logs Analysis Project 
-Udacity Full Stack Web Developer Nanodegree Project 1
+**Logs Analysis Project** 
+*Udacity Full Stack Web Developer Nanodegree Project 1*
 
 ***REQUIREMENTS***
 
