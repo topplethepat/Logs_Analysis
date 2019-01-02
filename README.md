@@ -1,5 +1,5 @@
-##Logs Analysis Project 
-##Udacity Full Stack Web Developer Nanodegree Project 1
+Logs Analysis Project 
+Udacity Full Stack Web Developer Nanodegree Project 1
 
 ***REQUIREMENTS***
 
@@ -19,6 +19,7 @@ Vagrant and VirtualBox must be installed on users local machine.
 - 'README.md', which includes the views the user must first create in the database in order to run the script
 
 ***SETUP and EXECUTION***
+
 Start the VM:
 
 	vagrant up
